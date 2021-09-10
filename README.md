@@ -6,13 +6,11 @@
 tkinter taak   
 
 focus op visualisatie    
-matplotlib    
-
-aanmaak repo Data Visualisation in CoGhent GitHub, verschillende project (per instelling + algemene visualisatie)   
+matplotlib      
 
 brug naar TtT3: voorbeeld pandas met thesaurus export  
 
-to do: online tutorial Pandas Tutorial  
+to do: online tutorial Pandas Tutorial, aanmaak repo Data Visualisation in CoGhent GitHub, verschillende project (per instelling + algemene visualisatie), oefening matplotlib   
 
 ## __Datasets__
 
