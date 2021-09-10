@@ -1,4 +1,4 @@
-# 1. import matplotlib
+# 1. import matplotlib + pip install matplotlib
 from matplotlib import pyplot as plt
 
 # 2. Line Graphs
