@@ -1,4 +1,4 @@
-# 1. import matplotlib & pandas
+# 1. import matplotlib & pandas (pip install matplotlib, pip install pandas)
 from matplotlib import pyplot as plt
 import pandas as pd
 
