@@ -12,7 +12,7 @@ brug naar TtT3: voorbeeld pandas met thesaurus export
 
 *to do tegen TtT3:*    
 - *online tutorial Pandas Tutorial*    
-- *aanmaak repo Data Visualisation in CoGhent GitHub, verschillende project (per instelling + algemene visualisatie)*    
+- *aanmaak repo Data Visualization in CoGhent GitHub, verschillende project (per instelling + algemene visualisatie)*    
 - *oefening matplotlib*   
 
 ## __Datasets__
